@@ -1,0 +1,19 @@
+{
+    "name": "MyChess.Composition",
+    "references": [
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:619762725cac20b4d83055a6d52197d2",
+        "GUID:f6fe6d6dc9034da46a1f115379806263",
+        "GUID:62fd1c55defc8ae45b562676a35e9784",
+        "GUID:aef63c66137e92248b1ec93d8696e4da"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

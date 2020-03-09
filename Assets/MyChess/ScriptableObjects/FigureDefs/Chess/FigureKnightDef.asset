@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41a659120832476daee18fff03f7ab18, type: 3}
+  m_Name: FigureKnightDef
+  m_EditorClassIdentifier: 
+  _id: FigureKnight
+  _whitePrefab: {fileID: 107724, guid: 5b27876d5ed4f8e48a5a3648901dc014, type: 3}
+  _blackPrefab: {fileID: 196802, guid: bebf4ecae86b2a44da3c8e342faa623f, type: 3}
+  _prefabInitialSize: 2
+  _figureMoveTurnRules:
+  - {fileID: 11400000, guid: b24ba452e9b9a1540a553027fa7919d0, type: 2}
+  _figurePostTurnLogics: []

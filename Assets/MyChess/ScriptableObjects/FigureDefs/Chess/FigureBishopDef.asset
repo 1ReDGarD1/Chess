@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41a659120832476daee18fff03f7ab18, type: 3}
+  m_Name: FigureBishopDef
+  m_EditorClassIdentifier: 
+  _id: FigureBishop
+  _whitePrefab: {fileID: 190264, guid: 013b7e3db6fb4c141927334e8e99e9ec, type: 3}
+  _blackPrefab: {fileID: 196866, guid: 3f964bc5474348b408f531419758db04, type: 3}
+  _prefabInitialSize: 2
+  _figureMoveTurnRules:
+  - {fileID: 11400000, guid: 852e8422e5a096041bb984009bb3952b, type: 2}
+  _figurePostTurnLogics: []

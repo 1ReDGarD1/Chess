@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bc571992b0b499ca7b1cdcc29470b19, type: 3}
+  m_Name: "Figure\u0421heckerPostTurnLogicTransform"
+  m_EditorClassIdentifier: 
+  _figureDefsToTransform:
+  - {fileID: 11400000, guid: fbdd36803c3c068459718899102f6b1e, type: 2}
+  _blackLastRow: 1
+  _whiteLastRow: 8

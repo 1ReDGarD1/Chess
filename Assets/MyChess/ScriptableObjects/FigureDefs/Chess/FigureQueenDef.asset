@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41a659120832476daee18fff03f7ab18, type: 3}
+  m_Name: FigureQueenDef
+  m_EditorClassIdentifier: 
+  _id: FigureQueen
+  _whitePrefab: {fileID: 103078, guid: 0a56e1ccdf7c9364f9a88130513e4ecc, type: 3}
+  _blackPrefab: {fileID: 184594, guid: a0b29de502bd0104e9d1aca97e017cf2, type: 3}
+  _prefabInitialSize: 1
+  _figureMoveTurnRules:
+  - {fileID: 11400000, guid: 852e8422e5a096041bb984009bb3952b, type: 2}
+  - {fileID: 11400000, guid: fda34abb9ac51ab43a694b68bd3d83f7, type: 2}
+  _figurePostTurnLogics: []

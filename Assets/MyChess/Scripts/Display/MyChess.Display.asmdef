@@ -1,0 +1,17 @@
+{
+    "name": "MyChess.Display",
+    "references": [
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:619762725cac20b4d83055a6d52197d2",
+        "GUID:f6fe6d6dc9034da46a1f115379806263"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

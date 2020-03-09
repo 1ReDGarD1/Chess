@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41a659120832476daee18fff03f7ab18, type: 3}
+  m_Name: FigureRookDef
+  m_EditorClassIdentifier: 
+  _id: FigureRook
+  _whitePrefab: {fileID: 114028, guid: 80b445364b25c264baa3438df3d80842, type: 3}
+  _blackPrefab: {fileID: 125018, guid: f06d0301496e5d6469f7dfcb7d618f21, type: 3}
+  _prefabInitialSize: 2
+  _figureMoveTurnRules:
+  - {fileID: 11400000, guid: fda34abb9ac51ab43a694b68bd3d83f7, type: 2}
+  _figurePostTurnLogics: []

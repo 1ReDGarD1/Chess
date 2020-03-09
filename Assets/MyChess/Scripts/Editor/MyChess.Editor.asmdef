@@ -1,0 +1,17 @@
+{
+    "name": "MyChess.Editor",
+    "references": [
+        "GUID:f6fe6d6dc9034da46a1f115379806263"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

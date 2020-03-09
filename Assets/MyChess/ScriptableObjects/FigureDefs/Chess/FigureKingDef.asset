@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41a659120832476daee18fff03f7ab18, type: 3}
+  m_Name: FigureKingDef
+  m_EditorClassIdentifier: 
+  _id: FigureKing
+  _whitePrefab: {fileID: 119820, guid: 8bd1d9715adb93a4fb778b4e21bc8a5e, type: 3}
+  _blackPrefab: {fileID: 130826, guid: f3c9cbc5100f2744b80b367e230bb2fe, type: 3}
+  _prefabInitialSize: 1
+  _figureMoveTurnRules:
+  - {fileID: 11400000, guid: 5fd5fc0eff8e9db48842a9218d36ef84, type: 2}
+  _figurePostTurnLogics: []

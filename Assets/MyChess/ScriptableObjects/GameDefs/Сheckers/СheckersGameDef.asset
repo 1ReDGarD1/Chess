@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c5e6c1438184893842c0f7d733105a2, type: 3}
+  m_Name: "\u0421heckersGameDef"
+  m_EditorClassIdentifier: 
+  _id: "\u0421heckers"
+  _startInfoFigureDefs:
+  - _figureDef: {fileID: 11400000, guid: 88773fcf77bec324e8749055525ef6a3, type: 2}
+    _team: 0
+    _startCol: 1
+    _startRow: 1
+  - _figureDef: {fileID: 11400000, guid: 88773fcf77bec324e8749055525ef6a3, type: 2}
+    _team: 0
+    _startCol: 1
+    _startRow: 3
+  - _figureDef: {fileID: 11400000, guid: 88773fcf77bec324e8749055525ef6a3, type: 2}
+    _team: 0
+    _startCol: 2
+    _startRow: 2
+  - _figureDef: {fileID: 11400000, guid: 88773fcf77bec324e8749055525ef6a3, type: 2}
+    _team: 0
+    _startCol: 3
+    _startRow: 1
+  - _figureDef: {fileID: 11400000, guid: 88773fcf77bec324e8749055525ef6a3, type: 2}
+    _team: 0
+    _startCol: 3
+    _startRow: 3
+  - _figureDef: {fileID: 11400000, guid: 88773fcf77bec324e8749055525ef6a3, type: 2}
+    _team: 0
+    _startCol: 4
+    _startRow: 2
+  - _figureDef: {fileID: 11400000, guid: 88773fcf77bec324e8749055525ef6a3, type: 2}
+    _team: 0
+    _startCol: 5
+    _startRow: 1
+  - _figureDef: {fileID: 11400000, guid: 88773fcf77bec324e8749055525ef6a3, type: 2}
+    _team: 0
+    _startCol: 5
+    _startRow: 3
+  - _figureDef: {fileID: 11400000, guid: 88773fcf77bec324e8749055525ef6a3, type: 2}
+    _team: 0
+    _startCol: 6
+    _startRow: 2
+  - _figureDef: {fileID: 11400000, guid: 88773fcf77bec324e8749055525ef6a3, type: 2}
+    _team: 0
+    _startCol: 7
+    _startRow: 1
+  - _figureDef: {fileID: 11400000, guid: 88773fcf77bec324e8749055525ef6a3, type: 2}
+    _team: 0
+    _startCol: 7
+    _startRow: 3
+  - _figureDef: {fileID: 11400000, guid: 88773fcf77bec324e8749055525ef6a3, type: 2}
+    _team: 0
+    _startCol: 8
+    _startRow: 2
+  - _figureDef: {fileID: 11400000, guid: 88773fcf77bec324e8749055525ef6a3, type: 2}
+    _team: 1
+    _startCol: 1
+    _startRow: 7
+  - _figureDef: {fileID: 11400000, guid: 88773fcf77bec324e8749055525ef6a3, type: 2}
+    _team: 1
+    _startCol: 2
+    _startRow: 8
+  - _figureDef: {fileID: 11400000, guid: 88773fcf77bec324e8749055525ef6a3, type: 2}
+    _team: 1
+    _startCol: 2
+    _startRow: 6
+  - _figureDef: {fileID: 11400000, guid: 88773fcf77bec324e8749055525ef6a3, type: 2}
+    _team: 1
+    _startCol: 3
+    _startRow: 7
+  - _figureDef: {fileID: 11400000, guid: 88773fcf77bec324e8749055525ef6a3, type: 2}
+    _team: 1
+    _startCol: 4
+    _startRow: 8
+  - _figureDef: {fileID: 11400000, guid: 88773fcf77bec324e8749055525ef6a3, type: 2}
+    _team: 1
+    _startCol: 4
+    _startRow: 6
+  - _figureDef: {fileID: 11400000, guid: 88773fcf77bec324e8749055525ef6a3, type: 2}
+    _team: 1
+    _startCol: 5
+    _startRow: 7
+  - _figureDef: {fileID: 11400000, guid: 88773fcf77bec324e8749055525ef6a3, type: 2}
+    _team: 1
+    _startCol: 6
+    _startRow: 8
+  - _figureDef: {fileID: 11400000, guid: 88773fcf77bec324e8749055525ef6a3, type: 2}
+    _team: 1
+    _startCol: 6
+    _startRow: 6
+  - _figureDef: {fileID: 11400000, guid: 88773fcf77bec324e8749055525ef6a3, type: 2}
+    _team: 1
+    _startCol: 7
+    _startRow: 7
+  - _figureDef: {fileID: 11400000, guid: 88773fcf77bec324e8749055525ef6a3, type: 2}
+    _team: 1
+    _startCol: 8
+    _startRow: 8
+  - _figureDef: {fileID: 11400000, guid: 88773fcf77bec324e8749055525ef6a3, type: 2}
+    _team: 1
+    _startCol: 8
+    _startRow: 6
+  _resultGameValidator: {fileID: 11400000, guid: f946c5ac99e6277439a78c59a62090f8,
+    type: 2}
